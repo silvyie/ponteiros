@@ -18,6 +18,8 @@ int main(){
     soma(&numero_a, &numero_b);
 
     printf("primeiro numero: %d\n", numero_a);
-    printf("segundo numero: %d\n", numero_b);
+    printf("segundo numero: %d\n", numero_b
+
+   return 0;
 
 }
