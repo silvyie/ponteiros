@@ -24,5 +24,5 @@ int main(){
     printf("segundo numero: %d\n", numero_b);
     printf("soma dos numeros dobrados: %d\n", soma);
 
-
+    return 0;
 }
